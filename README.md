@@ -119,5 +119,3 @@ DELETE http://www.example.com/api/table_name/id
 - Find by field
 - and more! :)
 
-##Thank you.
-Arjun | arjunkomath@gmail.com
